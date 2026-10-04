@@ -1,0 +1,6 @@
+# robots.txt for Jubayer AI Studio (jubayer.dev)
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://jubayer.dev/sitemap.xml
