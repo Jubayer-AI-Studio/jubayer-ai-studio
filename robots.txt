@@ -1,6 +1,7 @@
-# robots.txt for Jubayer AI Studio (jubayer.dev)
+# robots.txt for Jubayer AI Studio (jubayer-ai-studio.github.io & jubayer.dev)
 User-agent: *
 Allow: /
 
 # Sitemaps
+Sitemap: https://jubayer-ai-studio.github.io/jubayer-ai-studio/sitemap.xml
 Sitemap: https://jubayer.dev/sitemap.xml
