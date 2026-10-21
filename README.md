@@ -1,19 +1,18 @@
 <div align="center">
 
-  <!-- RETRO ARCADE LIVE BANNER -->
-  <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/jubayer_live_banner.gif" width="100%" alt="Jubayer Ahmad - Arcade Systems Architect" style="border-radius: 14px;" />
+  <!-- 3D ISOMETRIC VIRTUAL REALM ANIMATION (Warm Cream Beige #EBE0CD Palette) -->
+  <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/3d_isometric_world.svg" width="100%" alt="Jubayer Ahmad - 3D Isometric Virtual Realm" style="border-radius: 16px;" />
 
   <br/><br/>
 
-  <!-- RETRO ARCADE HUD HEADER -->
+  <!-- 3D WORLD HUD TELEMETRY BADGES (Editorial Warm Sand & Emerald Forest) -->
   <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/">
-    <img src="https://img.shields.io/badge/🕹️_ARCADE_SYSTEM-COIN--OP_EDITION_2030-FFB800?style=for-the-badge&logo=retroarch&logoColor=black" alt="Arcade Mode" />
+    <img src="https://img.shields.io/badge/🌍_3D_REALM-ISOMETRIC_WORLD-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Realm" />
   </a>
-  <img src="https://img.shields.io/badge/👑_PLAYER_1-JUBAYER_[LVL_99]-00E5FF?style=for-the-badge&logo=gamepad&logoColor=black" alt="Player 1" />
-  <img src="https://img.shields.io/badge/❤️_HP-100%25-00F5A0?style=for-the-badge&logo=heart&logoColor=black" alt="HP" />
-  <img src="https://img.shields.io/badge/⚡_MP-100%25-7C3AED?style=for-the-badge&logo=lightning&logoColor=white" alt="MP" />
-  <img src="https://img.shields.io/badge/🪙_CREDITS-999,999-FFD700?style=for-the-badge" alt="Credits" />
-  <img src="https://img.shields.io/badge/📍_BASE-DHAKA_CYBER_DISTRICT-2979FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Base" />
+  <img src="https://img.shields.io/badge/👑_PLAYER_1-JUBAYER_[LVL_99]-10241D?style=for-the-badge&logo=gamepad&logoColor=10B981" alt="Player 1" />
+  <img src="https://img.shields.io/badge/🏎️_BRUNO_3D-ONLINE_60FPS-10B981?style=for-the-badge&logo=speedtest&logoColor=white" alt="Bruno 3D" />
+  <img src="https://img.shields.io/badge/🏰_NOORHUB-29_ROUTES_ACTIVE-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="NoorHub" />
+  <img src="https://img.shields.io/badge/📍_BASE-DHAKA_CYBER_DISTRICT-7A4825?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Base" />
 
   <br/><br/>
 
@@ -26,35 +25,70 @@
 
 ---
 
-### 🕹️ PLAYABLE 3D ARCADE ZONE // BRUNO SIMON CYBER-WORLD
+### 📚 3D VIRTUAL ARCHIVE // BOOKSHELF & ARCADE KIOSK
+> *Physical 3D perspective display of production SaaS systems, AI architectures, and playable browser games.*
 
 <div align="center">
-  <p><b>🎮 READY PLAYER ONE: Drive the 3D Physics Car & Play Full Browser Games</b></p>
   <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/og_banners/bruno_world_arcade_banner.png" width="100%" alt="Bruno Simon 3D World & Arcade Hub" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(255, 184, 0, 0.3);" />
+    <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/og_banners/jubayer_3d_bookshelf_kiosk.png" width="100%" alt="3D Bookshelf and Arcade Kiosk" style="border-radius: 14px; box-shadow: 0 16px 40px rgba(122, 72, 37, 0.25);" />
   </a>
 </div>
 
 <br/>
 
-#### 🏎️ Bruno Simon 3D Interactive Driving Playground:
-Explore Jubayer's portfolio driving a real-time physics vehicle around a 3D cyberpunk arena. Smash into project blocks, drift around ramps, and launch interactive game kiosks!
+#### 🎮 Shelf 1: Playable 3D WebGL & 2D Arcade Engines:
+* 🏎️ **[Bruno Simon 3D Driving World](https://jubayer-ai-studio.github.io/ultra-portfolio/):** Real-time Three.js physics vehicle drift, project block smash, and 3D arcade kiosks.
+* ⚔️ **[Safin: Blade Fighter 3D](https://jubayer-ai-studio.github.io/Shafin-Blade-Fighter-Game/):** Instant 60 FPS HTML5 canvas combat with frame-accurate hitboxes and combos.
+* 🏎️ **[Shafin & Nafis Racing 3D](https://ai.studio/apps/24f3c1f3-62f7-47d2-a4c1-7e95961a9120):** High-octane 3D racer with nitro boosts and smooth mobile/touch controls.
+* 🏃 **[Jubayer Legends 3D Runner](https://ai.studio/apps/8bc3f588-063b-4d86-85fc-f9115b059d7a):** Cyberpunk endless skyline sprint with high-flying obstacles.
 
-* **🕹️ Driving Controls:** `[W] / [↑]` Accelerate • `[S] / [↓]` Reverse • `[A] / [D]` Steer & Drift • `[Space]` Handbrake & Physics Smash • `[H]` Cyber Horn
+<div align="center">
+  <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🏎️_DRIVE-BRUNO_3D_WORLD-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Play Bruno 3D" />
+  </a>
+  <a href="https://jubayer-ai-studio.github.io/Shafin-Blade-Fighter-Game/" target="_blank">
+    <img src="https://img.shields.io/badge/⚔️_FIGHT-BLADE_FIGHTER_3D-10B981?style=for-the-badge&logo=sword&logoColor=white" alt="Play Fighter" />
+  </a>
+  <a href="https://ai.studio/apps/24f3c1f3-62f7-47d2-a4c1-7e95961a9120" target="_blank">
+    <img src="https://img.shields.io/badge/🏎️_RACE-SHAFIN_NAFIS_3D-00E5FF?style=for-the-badge&logo=speedtest&logoColor=black" alt="Play Racer" />
+  </a>
+  <a href="https://ai.studio/apps/8bc3f588-063b-4d86-85fc-f9115b059d7a" target="_blank">
+    <img src="https://img.shields.io/badge/🏃_SPRINT-JUBAYER_LEGENDS_3D-A855F7?style=for-the-badge&logo=runkeeper&logoColor=white" alt="Play Runner" />
+  </a>
+</div>
+
+<br/>
+
+#### 🏰 Shelf 2: Enterprise Cloud Architecture & Autonomous AI:
+* 🏰 **[NoorHub SaaS (নূরহাব)](https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS):** Next.js 15, React 19, Drizzle ORM, PostgreSQL, 64-district spatial GIS mapping, offline PWA.
+* 🤖 **[Jubayer AI (Desktop Jarvis)](https://github.com/Jubayer-AI-Studio/Jubayer-Jarvis-AI-Automation):** Biometric voice frequency identification, OpenCV hand gesture tracking, floating arc reactor HUD.
+* 🎬 **[Two Friends Video Studio](https://github.com/Jubayer-AI-Studio/Two-Friends-Driving-Masters-Video-Studio):** Generative AI cinema engine powered by Google Veo 3.1 & Gemini 3.7 Flash.
+* 🎙️ **[Shono AI Assistant](https://github.com/Jubayer-AI-Studio/Shono-AI-Bangladeshi-Jarvis):** Native regional dialect speech recognition (Sylheti, Chatgaya, Dhakaiya) with real-time audio visualizer HUD.
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Medium.gif" width="100%" />
+</div>
+
+---
+
+### 🕹️ 3D ISOMETRIC VIRTUAL REALM // BRUNO SIMON ENGINE
+
+<div align="center">
+  <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/og_banners/jubayer_3d_world_banner.png" width="100%" alt="3D Isometric World Banner" style="border-radius: 14px; box-shadow: 0 16px 40px rgba(16, 185, 129, 0.2);" />
+  </a>
+</div>
+
+<br/>
+
+* **🕹️ Driving Controls:** `[W] / [↑]` Accelerate Nitro • `[S] / [↓]` Reverse • `[A] / [D]` Steer & Drift • `[Space]` Handbrake & Physics Smash • `[H]` Cyber Horn
 * **⚡ 3D Engine Architecture:** Built with `Three.js` • `React 19` • `WebGL` • `RigidBody Physics` • `60 FPS Locked`
 
 <div align="center">
   <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🏎️_LAUNCH-BRUNO_3D_DRIVING_WORLD-FFB800?style=for-the-badge&logo=three.js&logoColor=black" alt="Play Bruno 3D" />
-  </a>
-  <a href="https://jubayer-ai-studio.github.io/Shafin-Blade-Fighter-Game/" target="_blank">
-    <img src="https://img.shields.io/badge/⚔️_PLAY_NOW-SAFIN_BLADE_FIGHTER_3D-00F5A0?style=for-the-badge&logo=sword&logoColor=black" alt="Play Fighter" />
-  </a>
-  <a href="https://ai.studio/apps/24f3c1f3-62f7-47d2-a4c1-7e95961a9120" target="_blank">
-    <img src="https://img.shields.io/badge/🏎️_RACE-SHAFIN_%26_NAFIS_3D-00E5FF?style=for-the-badge&logo=speedtest&logoColor=black" alt="Play Racer" />
-  </a>
-  <a href="https://ai.studio/apps/8bc3f588-063b-4d86-85fc-f9115b059d7a" target="_blank">
-    <img src="https://img.shields.io/badge/🏃_SPRINT-JUBAYER_LEGENDS_3D-A855F7?style=for-the-badge&logo=runkeeper&logoColor=white" alt="Play Runner" />
+    <img src="https://img.shields.io/badge/🎮_ENTER_3D_WORLD-LAUNCH_WEBGL-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Launch 3D World" />
   </a>
 </div>
 
@@ -121,7 +155,7 @@ Explore Jubayer's portfolio driving a real-time physics vehicle around a 3D cybe
 // ⚡ PLAYER 1 STATUS // JUBAYER AHMAD (LEVEL 99 BOSS)
 const character: RPGCharacter = {
   name: "Jubayer Ahmad",
-  class: "Autonomous Systems Architect & Game Crafter",
+  class: "Autonomous Systems Architect & 3D Game Crafter",
   guild: "Jubayer AI Studio",
   baseLocation: "Dhaka Cyber District, Bangladesh 🇧🇩",
   level: 99, // MAX LEVEL SSS TIER
@@ -396,7 +430,7 @@ const character: RPGCharacter = {
   <img src="https://img.shields.io/badge/Email_Dispatch-jubayerahmadaistudio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/">
-  <img src="https://img.shields.io/badge/Play_Bruno_3D_Portfolio-Live_WebGL-FFB800?style=for-the-badge&logo=three.js&logoColor=black" alt="Bruno 3D Portfolio" />
+  <img src="https://img.shields.io/badge/Play_Bruno_3D_Portfolio-Live_WebGL-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Bruno 3D Portfolio" />
 </a>
 <a href="https://github.com/Jubayer-AI-Studio">
   <img src="https://img.shields.io/badge/GitHub-Jubayer--AI--Studio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
