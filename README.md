@@ -1,34 +1,33 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/jubayer_live_banner.gif" width="100%" alt="Jubayer Ahmad - Full-Stack Software Engineer & Autonomous AI Architect" />
-</div>
 
-<div align="center">
+  <!-- HERO LIVE BANNER -->
+  <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/jubayer_live_banner.gif" width="100%" alt="Jubayer Ahmad - Senior Full-Stack Engineer & Autonomous AI Systems Architect" style="border-radius: 14px;" />
+
+  <br/>
+
+  <!-- DYNAMIC TYPING SVG SLOGAN -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=55&lines=⚡+Hi+there,+I'm+Jubayer+Ahmad;Senior+Full-Stack+Engineer+%26+Autonomous+AI+Architect;Architecting+Production+Multi-Tenant+SaaS+%26+PWAs;Creator+of+NoorHub+SaaS+%26+Desktop+Jarvis+OS;Engineering+24%2F7+Resilient+Automation+Engines" alt="Typing SVG" />
   </a>
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jubayer-AI-Studio&color=00E5FF&style=for-the-badge&label=PROFILE+TELEMETRY" alt="Profile Views" />
+  <!-- ANIMATED NEON DIVIDER -->
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="4" />
+
+  <br/>
+
+  <!-- QUICK TELEMETRY BADGES -->
+  <img src="https://komarev.com/ghpvc/?username=Jubayer-AI-Studio&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00F5A0?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK_%26_AI_SYSTEMS-2979FF?style=for-the-badge&logo=probot&logoColor=white" alt="Expertise" />
+  <img src="https://img.shields.io/badge/ROLE-SENIOR_SYSTEMS_ARCHITECT-2979FF?style=for-the-badge&logo=probot&logoColor=white" alt="Role" />
   <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C_BANGLADESH-0575E6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="#-systems-architect-terminal"><b>Architect Terminal</b></a> •
-  <a href="#-technical-arsenal"><b>Tech Arsenal</b></a> •
-  <a href="#-flagship-production-showcase"><b>Production Showcase</b></a> •
-  <a href="#-activity-matrix"><b>Activity Matrix</b></a> •
-  <a href="#-telemetry-analytics"><b>Analytics</b></a> •
-  <a href="#-connect--dispatch"><b>Connect & Hire</b></a>
-</p>
-
 ---
 
-### 💻 Systems Architect Terminal
+### 💻 SYSTEM.KERNEL // DEVELOPER CONSOLE
 
 ```typescript
 // ⚡ INITIALIZING KERNEL: Jubayer Ahmad — Autonomous AI & Full-Stack Systems Architect
@@ -54,20 +53,69 @@ const developer: SystemsArchitect = {
 await developer.deployNextRevolutionarySystem();
 ```
 
----
-
-### 🛠️ Technical Arsenal
-
 <div align="center">
-  <p><b>Frontend, Full-Stack, Autonomous AI & Cloud DevOps Toolchain:</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,pwa,python,fastapi,nodejs,opencv,postgres,supabase,sqlite,git,github,vscode,figma,postman,androidstudio,linux&theme=dark&perline=11" alt="Tech Stack Icons" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Medium.gif" width="100%" />
 </div>
 
 ---
 
-### 🚀 Flagship Production Showcase
+### 🌐 3D ISOMETRIC CONTRIBUTION MATRIX
+
+<div align="center">
+  <p><i>Real-Time 3D Wave Contribution Telemetry:</i></p>
+  <img src="https://ssr-contributions-svg.vercel.app/_/Jubayer-AI-Studio?chart=3dbar&gap=0.6&scale=2&animation=wave&theme=native&dark=true" width="100%" alt="3D Isometric Contribution Wave" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Medium.gif" width="100%" />
+</div>
+
+---
+
+### 🛠️ TECHNICAL ARSENAL
+
+<div align="center">
+
+<p><b>Frontend & Core Web Architecture:</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,pwa&theme=dark" alt="Frontend Skills" />
+</a>
+
+<br/><br/>
+
+<p><b>Backend, AI & Automation Runtimes:</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,opencv,tensorflow,linux&theme=dark" alt="Backend & AI Skills" />
+</a>
+
+<br/><br/>
+
+<p><b>Databases, Cloud & DevOps Ecosystem:</b></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,git,github,docker,vscode,figma,postman&theme=dark" alt="Databases & Tools" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Medium.gif" width="100%" />
+</div>
+
+---
+
+### 🚀 FLAGSHIP PRODUCTION SHOWCASE
 
 <br/>
 
@@ -85,7 +133,7 @@ await developer.deployNextRevolutionarySystem();
 > **Operational Scope:** `29 Completed Routes` | `Full 64-District Spatial Mapping` | `Offline-First Service Worker`
 
 * **The Problem & Solution:** Managing large-scale educational institutions in Bangladesh requires complex bilingual records, accounts, and regional reporting. NoorHub replaces disjointed spreadsheets with an enterprise cloud platform built for real-world reliability.
-* **Key Engineered Capabilities:**
+* **Key Engineered Highlights:**
   * 🗺️ **Interactive GIS Spatial Mapping:** Integrated Leaflet GIS mapping all 8 administrative divisions and 64 districts of Bangladesh with institutional clustering.
   * 🪪 **Digital Student ID Card Engine:** Real-time ID card generator with dynamic QR codes, Code-128 barcodes, and print-ready CSS rendering.
   * ⚡ **29 Completed Application Routes:** Comprehensive student lifecycle, fees ledger, gradebooks, staff payroll, and admin controls.
@@ -101,6 +149,8 @@ await developer.deployNextRevolutionarySystem();
   </a>
   <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
 </div>
+
+<br/>
 
 ---
 
@@ -118,7 +168,7 @@ await developer.deployNextRevolutionarySystem();
 > **Operational Scope:** `Biometric Voice Auth` | `Computer Vision Gestures` | `Floating Arc Reactor HUD`
 
 * **The Problem & Solution:** Standard PC controls require mouse and keyboard interaction. Jubayer AI transforms a standard Windows computer into an Iron-Man style hands-free workstation with biometric owner authorization.
-* **Key Engineered Capabilities:**
+* **Key Engineered Highlights:**
   * 🎙️ **Biometric Voiceprint Verification:** Owner voice frequency identification prevents unauthorized users from executing system commands.
   * 👁️ **Computer Vision & Gesture Control:** Real-time MediaPipe and OpenCV hand landmark tracking for volume modulation, scrolling, and window management.
   * 🌐 **Smartphone WiFi Remote:** Dynamic QR-code local network web dashboard allowing full smartphone control of the desktop.
@@ -133,6 +183,8 @@ await developer.deployNextRevolutionarySystem();
   </a>
   <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
 </div>
+
+<br/>
 
 ---
 
@@ -150,7 +202,7 @@ await developer.deployNextRevolutionarySystem();
 > **Operational Scope:** `60 FPS Locked` | `Zero GPU Overhead` | `Frame-Accurate Hitboxes`
 
 * **The Problem & Solution:** Heavy 3D game engines require massive downloads and high GPU overhead. Shafin Blade Fighter delivers a fast, responsive fighting game directly in any browser with instant loading.
-* **Key Engineered Capabilities:**
+* **Key Engineered Highlights:**
   * 🕹️ **Custom 2D/3D Canvas Physics:** Frame-accurate hitboxes, velocity decay, knockback vectors, and combo chains.
   * 🔊 **Web Audio Synthesizer:** Procedural impact sounds and audio feedback without latency or asset lag.
   * 📱 **Adaptive Multi-Device Input:** Unified input system supporting physical keyboards, gamepads, and virtual on-screen touch controls.
@@ -165,6 +217,8 @@ await developer.deployNextRevolutionarySystem();
   </a>
   <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
 </div>
+
+<br/>
 
 ---
 
@@ -182,7 +236,7 @@ await developer.deployNextRevolutionarySystem();
 > **Operational Scope:** `Sylheti, Chatgaya & Dhakaiya Dialects` | `Animated Cyberpunk HUD`
 
 * **The Problem & Solution:** Global voice assistants fail to understand regional Bengali dialects. Shono AI provides an architectural blueprint and interface tailored to native linguistic nuances.
-* **Key Engineered Capabilities:**
+* **Key Engineered Highlights:**
   * 🗣️ **Dialect Intent Mapping:** Maps spoken regional phonetics to structured API execution commands.
   * 🌌 **Cyberpunk Interactive HUD:** Real-time animated audio spectrum visualizer with cyberpunk aesthetics and live feedback.
   * ⚡ **Zero-Latency Pipeline:** Instant client-side speech processing with adaptive audio thresholding.
@@ -197,28 +251,20 @@ await developer.deployNextRevolutionarySystem();
   <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
 </div>
 
----
-
-### 🐍 Activity Matrix
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Medium.gif" width="100%" />
 </div>
 
 ---
 
-### 📊 Telemetry Analytics
+### 📊 TELEMETRY ANALYTICS & STATS
 
 <div align="center">
   <a href="https://github.com/Jubayer-AI-Studio">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-AI-Studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-AI-Studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Jubayer-AI-Studio">
-    <img src="https://streak-stats.demolab.com?user=Jubayer-AI-Studio&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&sideNums=00e5ff&sideLabels=94a3b8&dates=94a3b8" height="175" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Jubayer-AI-Studio&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&sideNums=00e5ff&sideLabels=94a3b8&dates=94a3b8" height="180" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -226,13 +272,17 @@ await developer.deployNextRevolutionarySystem();
 
 <div align="center">
   <a href="https://github.com/Jubayer-AI-Studio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-AI-Studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8&langs_count=8" height="175" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-AI-Studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8&langs_count=8" height="180" alt="Top Languages" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Medium.gif" width="100%" />
 </div>
 
 ---
 
-### 📬 Connect & Dispatch
+### 📬 CONNECT & DIRECT DISPATCH
 
 <div align="center">
 
@@ -254,5 +304,9 @@ await developer.deployNextRevolutionarySystem();
 <a href="https://wa.me/8801354840991">
   <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="4" />
 
 </div>
