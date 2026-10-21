@@ -1,9 +1,9 @@
 <div align="center">
 
   <!-- ========================================================================= -->
-  <!-- 1. LIVE CYBER HUD & 3D ISOMETRIC HERO ANIMATION (Warm Cream Beige #EBE0CD) -->
+  <!-- 1. INTERNATIONAL CHRONO-HUD & LIVE TIME ANIMATION (Warm Cream Beige #EBE0CD) -->
   <!-- ========================================================================= -->
-  <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/live_hero_animation.svg" width="100%" alt="Jubayer Ahmad - Live System HUD" style="border-radius: 18px;" />
+  <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/jubayer_chrono_hud.gif" width="100%" alt="Jubayer Ahmad - International Chrono HUD" style="border-radius: 18px;" />
 
   <br/><br/>
 
