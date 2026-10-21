@@ -3,17 +3,21 @@
   <!-- ========================================================================= -->
   <!-- 1. INTERNATIONAL CHRONO-HUD & LIVE TIME ANIMATION (Warm Cream Beige #EBE0CD) -->
   <!-- ========================================================================= -->
-  <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/jubayer_chrono_hud.gif" width="100%" alt="Jubayer Ahmad - International Chrono HUD" style="border-radius: 18px;" />
+  <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/jubayer_chrono_hud.gif" width="100%" alt="Jubayer Ahmad - International Chrono HUD" style="border-radius: 18px;" />
+  </a>
 
   <br/><br/>
 
   <!-- 3D WORLD HUD TELEMETRY BADGES -->
-  <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/">
-    <img src="https://img.shields.io/badge/🌍_3D_REALM-ISOMETRIC_WORLD-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Realm" />
+  <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTFOLIO-LIVE_SITE-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Official Live Portfolio" />
+  </a>
+  <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🏎️_BRUNO_3D_WORLD-ONLINE_60FPS-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Bruno 3D" />
   </a>
   <img src="https://img.shields.io/badge/👑_PLAYER_1-JUBAYER_[LVL_99]-10241D?style=for-the-badge&logo=gamepad&logoColor=10B981" alt="Player 1" />
-  <img src="https://img.shields.io/badge/🏎️_BRUNO_3D-ONLINE_60FPS-10B981?style=for-the-badge&logo=speedtest&logoColor=white" alt="Bruno 3D" />
-  <img src="https://img.shields.io/badge/🏰_NOORHUB-29_ROUTES_ACTIVE-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="NoorHub" />
+  <img src="https://img.shields.io/badge/🏰_NOORHUB-29_ROUTES_ACTIVE-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="NoorHub" />
   <img src="https://img.shields.io/badge/📍_BASE-DHAKA_CYBER_DISTRICT-7A4825?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Base" />
 
   <br/><br/>
@@ -233,8 +237,11 @@
 <a href="mailto:jubayerahmadaistudio@gmail.com">
   <img src="https://img.shields.io/badge/Email_Dispatch-jubayerahmadaistudio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://jubayer-ai-studio.github.io/ultra-portfolio/">
-  <img src="https://img.shields.io/badge/Play_Bruno_3D_Portfolio-Live_WebGL-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Bruno 3D Portfolio" />
+<a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Official_Portfolio-jubayer--portfolio--delta.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Official Live Portfolio" />
+</a>
+<a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Play_Bruno_3D_Arcade-Live_WebGL-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Bruno 3D Arcade" />
 </a>
 <a href="https://github.com/Jubayer-AI-Studio">
   <img src="https://img.shields.io/badge/GitHub-Jubayer--AI--Studio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
