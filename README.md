@@ -265,10 +265,10 @@ A curated selection of mission-critical software systems showcasing architectura
 
 <div align="center">
   <a href="https://github.com/Jubayer-AI-Studio">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-AI-Studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-AI-Studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Jubayer-AI-Studio">
-    <img src="https://streak-stats.demolab.com?user=Jubayer-AI-Studio&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&dates=94a3b8" height="165" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Jubayer-AI-Studio&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&dates=94a3b8" height="175" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -276,7 +276,7 @@ A curated selection of mission-critical software systems showcasing architectura
 
 <div align="center">
   <a href="https://github.com/Jubayer-AI-Studio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-AI-Studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-AI-Studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" height="175" alt="Top Languages" />
   </a>
 </div>
 
