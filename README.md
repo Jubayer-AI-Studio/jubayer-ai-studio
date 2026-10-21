@@ -1,98 +1,88 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/jubayer_live_banner.gif" width="100%" alt="Jubayer Ahmad - Full-Stack Software Engineer & AI Systems Architect" />
+  <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/jubayer_live_banner.gif" width="100%" alt="Jubayer Ahmad - Full-Stack Software Engineer & Autonomous AI Architect" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=55&lines=Hi+there,+I'm+Jubayer+Ahmad;Senior+Full-Stack+Engineer+%26+Autonomous+AI+Architect;Architecting+Production+Multi-Tenant+SaaS+%26+Offline+PWAs;Creator+of+NoorHub+SaaS+%26+Desktop+Jarvis+OS;Engineering+24%2F7+Resilient+Automation+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=55&lines=⚡+Hi+there,+I'm+Jubayer+Ahmad;Senior+Full-Stack+Engineer+%26+Autonomous+AI+Architect;Architecting+Production+Multi-Tenant+SaaS+%26+PWAs;Creator+of+NoorHub+SaaS+%26+Desktop+Jarvis+OS;Engineering+24%2F7+Resilient+Automation+Engines" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jubayer-AI-Studio&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/EXPERTISE-FULL--STACK_%26_AI_SYSTEMS-6366F1?style=for-the-badge&logo=probot&logoColor=white" alt="Expertise" />
+  <img src="https://komarev.com/ghpvc/?username=Jubayer-AI-Studio&color=00E5FF&style=for-the-badge&label=PROFILE+TELEMETRY" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00F5A0?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK_%26_AI_SYSTEMS-2979FF?style=for-the-badge&logo=probot&logoColor=white" alt="Expertise" />
   <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C_BANGLADESH-0575E6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="#-about-the-engineer"><b>About Me</b></a> •
-  <a href="#-core-architecture-pillars"><b>Core Capabilities</b></a> •
-  <a href="#-flagship-production-systems"><b>Production Systems</b></a> •
-  <a href="#-interactive-contribution-matrix"><b>Activity Stream</b></a> •
-  <a href="#-technical-arsenal"><b>Technical Arsenal</b></a> •
-  <a href="#-github-analytics"><b>Analytics</b></a> •
-  <a href="#-connect--collaborate"><b>Contact & Hire</b></a>
+  <a href="#-systems-architect-terminal"><b>Architect Terminal</b></a> •
+  <a href="#-technical-arsenal"><b>Tech Arsenal</b></a> •
+  <a href="#-flagship-production-showcase"><b>Production Showcase</b></a> •
+  <a href="#-activity-matrix"><b>Activity Matrix</b></a> •
+  <a href="#-telemetry-analytics"><b>Analytics</b></a> •
+  <a href="#-connect--dispatch"><b>Connect & Hire</b></a>
 </p>
 
 ---
 
-### 👨‍💻 About The Engineer
+### 💻 Systems Architect Terminal
 
-<table>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/jubayer_developer_card.png" width="100%" alt="Jubayer Ahmad" />
-    </td>
-    <td width="66%" valign="top">
-      <h3>Jubayer Ahmad</h3>
-      <p><b>Senior Full-Stack Software Engineer & Autonomous AI Systems Architect</b> based in <b>Dhaka, Bangladesh 🇧🇩</b>.</p>
-      <p>I architect production-grade, multi-tenant SaaS platforms, autonomous AI desktop runtime environments, and fault-tolerant automation pipelines. My engineering philosophy is rooted in high throughput, low latency, and rock-solid software stability.</p>
-      
-      <h4>🎯 Core Engineering Principles</h4>
-      <ul>
-        <li>🌐 <b>Scalable Monolith & Microservices:</b> Designing relational models (PostgreSQL, Drizzle ORM), multi-tenant tenancy isolation, and offline-first PWAs.</li>
-        <li>🤖 <b>Autonomous AI Integration:</b> Embedding generative AI, biometric voiceprint authentication, and real-time computer vision into resilient native and web runtimes.</li>
-        <li>⚡ <b>High-Throughput Automation:</b> Crafting self-healing worker bots, anti-detection web scrapers, and multithreaded FFmpeg video synthesis engines.</li>
-      </ul>
-      <p>📬 <b>Direct Inquiries:</b> <a href="mailto:jubayerahmadaistudio@gmail.com"><b>jubayerahmadaistudio@gmail.com</b></a></p>
-    </td>
-  </tr>
-</table>
+```typescript
+// ⚡ INITIALIZING KERNEL: Jubayer Ahmad — Autonomous AI & Full-Stack Systems Architect
+const developer: SystemsArchitect = {
+  name: "Jubayer Ahmad",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  title: "Senior Full-Stack Software Engineer & Autonomous AI Systems Architect",
+  corePhilosophies: [
+    "Scalable Monoliths & Microservices (Next.js 15, Drizzle ORM, PostgreSQL)",
+    "Production Autonomous AI (Biometric Voiceprint, Computer Vision, Gemini AI)",
+    "High-Throughput Automation (Self-healing worker bots, anti-detection scrapers, FFmpeg)"
+  ],
+  flagshipSystems: {
+    enterpriseSaaS: "NoorHub — Universal Islamic Education Management Cloud Platform",
+    autonomousOS: "Jubayer AI — 100% Hands-Free Voice & Gesture Desktop Operating System",
+    webGaming: "Shafin Blade Fighter 3D — 60 FPS Custom Canvas Combat Arcade Engine",
+    speechAI: "Shono AI — Regional Dialect-Aware Real-Time Voice Processing HUD"
+  },
+  status: "ONLINE_AND_OPEN_FOR_HIGH_IMPACT_ENGAGEMENTS",
+  directInquiry: "jubayerahmadaistudio@gmail.com"
+};
 
----
-
-### ⚡ Core Architecture Pillars
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 01. Enterprise SaaS & Cloud Platforms</h4>
-      <p>Architecting multi-tenant, bilingual cloud platforms with Next.js 15, Drizzle ORM, spatial GIS mapping, dynamic QR ID generators, and offline PWA service workers.</p>
-      <p><code>Next.js 15</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Drizzle ORM</code> • <code>PostgreSQL</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 02. Autonomous AI & Computer Vision</h4>
-      <p>Building 100% hands-free personal desktop operating systems with biometric voiceprint authentication, OpenCV vision tracking, and Google Gemini AI orchestration.</p>
-      <p><code>Python</code> • <code>OpenCV</code> • <code>MediaPipe</code> • <code>Gemini AI</code> • <code>SpeechRecognition</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔄 03. High-Scale Automation & Reverse Bots</h4>
-      <p>Designing anti-detection scrapers, 24/7 multithreaded Telegram worker bots, and automated video generation engines leveraging FFmpeg and YouTube Data API v3.</p>
-      <p><code>Selenium</code> • <code>Telegram Bot API</code> • <code>FFmpeg</code> • <code>YouTube API v3</code> • <code>OAuth2</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎮 04. Interactive Canvas Engines & Web Gaming</h4>
-      <p>Developing 60FPS browser combat arcade games with custom frame-accurate physics, Web Audio API sound engines, and multi-device touch controls.</p>
-      <p><code>HTML5 Canvas</code> • <code>JavaScript (ES6+)</code> • <code>Web Audio API</code> • <code>PWA</code></p>
-    </td>
-  </tr>
-</table>
+await developer.deployNextRevolutionarySystem();
+```
 
 ---
 
-### 🚀 Flagship Production Systems
+### 🛠️ Technical Arsenal
 
-A curated selection of mission-critical software systems showcasing architectural depth, full-stack scalability, and real-world deployment:
+<div align="center">
+  <p><b>Frontend, Full-Stack, Autonomous AI & Cloud DevOps Toolchain:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,pwa,python,fastapi,nodejs,opencv,postgres,supabase,sqlite,git,github,vscode,figma,postman,androidstudio,linux&theme=dark&perline=11" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+---
+
+### 🚀 Flagship Production Showcase
 
 <br/>
 
-#### 1. 📖 [NoorHub (নূরহাব) — Universal Islamic Education Management & Cloud SaaS](https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS)
-> **Status:** `🟢 PRODUCTION-READY SaaS` &nbsp;|&nbsp; **Scope:** `29 Completed Routes` &nbsp;|&nbsp; **Architecture:** `Multi-Tenant Bilingual Cloud`
+#### 1. 📖 [NoorHub SaaS (নূরহাব) — Universal Islamic Education Management Cloud](https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS)
+
+<div align="center">
+  <a href="https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS">
+    <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS/main/assets/social_preview.png" width="100%" alt="NoorHub SaaS Banner" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(16, 185, 129, 0.25);" />
+  </a>
+</div>
+
+<br/>
+
+> **Architecture:** `Next.js 15` • `React 19` • `TypeScript` • `Drizzle ORM` • `PostgreSQL` • `Leaflet GIS` • `PWA`  
+> **Operational Scope:** `29 Completed Routes` | `Full 64-District Spatial Mapping` | `Offline-First Service Worker`
 
 * **The Problem & Solution:** Managing large-scale educational institutions in Bangladesh requires complex bilingual records, accounts, and regional reporting. NoorHub replaces disjointed spreadsheets with an enterprise cloud platform built for real-world reliability.
 * **Key Engineered Capabilities:**
@@ -101,20 +91,31 @@ A curated selection of mission-critical software systems showcasing architectura
   * ⚡ **29 Completed Application Routes:** Comprehensive student lifecycle, fees ledger, gradebooks, staff payroll, and admin controls.
   * 📱 **Offline-First PWA:** Service worker caching enabling offline functionality during unstable network connectivity.
   * 🎙️ **Noor AI Voice Assistant:** Voice-driven search and navigation powered by Gemini AI.
-* **Stack:** `Next.js 15` • `React 19` • `TypeScript` • `Tailwind CSS` • `Drizzle ORM` • `PostgreSQL` • `Leaflet GIS` • `Gemini AI` • `PWA`
-* **Live Access & Source:**
-  <br/>
+
+<div align="center">
   <a href="https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS" target="_blank">
-    <img src="https://img.shields.io/badge/Launch-Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Launch-Live_Cloud_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Live Demo" />
   </a>
   <a href="https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS" target="_blank">
     <img src="https://img.shields.io/badge/Explore-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
+  <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
+</div>
 
 ---
 
-#### 2. 🤖 [Jubayer AI (Desktop Jarvis) — 100% Hands-Free Voice & Gesture OS](https://github.com/Jubayer-AI-Studio/Jubayer-Jarvis-AI-Automation)
-> **Status:** `⚡ ACTIVE DEPLOYMENT` &nbsp;|&nbsp; **Interface:** `Floating Arc Reactor HUD` &nbsp;|&nbsp; **Control:** `Biometric Voice & Gesture`
+#### 2. 🤖 [Jubayer AI (Desktop Jarvis) — 100% Hands-Free Autonomous Desktop OS](https://github.com/Jubayer-AI-Studio/Jubayer-Jarvis-AI-Automation)
+
+<div align="center">
+  <a href="https://github.com/Jubayer-AI-Studio/Jubayer-Jarvis-AI-Automation">
+    <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/og_banners/jarvis_og_banner.png" width="100%" alt="Desktop Jarvis Banner" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(14, 165, 233, 0.25);" />
+  </a>
+</div>
+
+<br/>
+
+> **Architecture:** `Python 3.11` • `OpenCV` • `MediaPipe` • `Gemini AI` • `SpeechRecognition` • `Sockets`  
+> **Operational Scope:** `Biometric Voice Auth` | `Computer Vision Gestures` | `Floating Arc Reactor HUD`
 
 * **The Problem & Solution:** Standard PC controls require mouse and keyboard interaction. Jubayer AI transforms a standard Windows computer into an Iron-Man style hands-free workstation with biometric owner authorization.
 * **Key Engineered Capabilities:**
@@ -122,20 +123,31 @@ A curated selection of mission-critical software systems showcasing architectura
   * 👁️ **Computer Vision & Gesture Control:** Real-time MediaPipe and OpenCV hand landmark tracking for volume modulation, scrolling, and window management.
   * 🌐 **Smartphone WiFi Remote:** Dynamic QR-code local network web dashboard allowing full smartphone control of the desktop.
   * 🔮 **Floating HUD Arc Reactor:** Interactive, draggable transparent floating desktop widget with real-time audio wave reactivity.
-* **Stack:** `Python` • `OpenCV` • `MediaPipe` • `SpeechRecognition` • `CustomTkinter` • `Socket Networking`
-* **Live Access & Source:**
-  <br/>
+
+<div align="center">
   <a href="https://github.com/Jubayer-AI-Studio/Jubayer-Jarvis-AI-Automation" target="_blank">
-    <img src="https://img.shields.io/badge/Watch-Architecture_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Walkthrough" />
+    <img src="https://img.shields.io/badge/Watch-Architecture_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
   </a>
   <a href="https://github.com/Jubayer-AI-Studio/Jubayer-Jarvis-AI-Automation" target="_blank">
     <img src="https://img.shields.io/badge/Explore-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
+  <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
+</div>
 
 ---
 
 #### 3. ⚔️ [Shafin Blade Fighter 3D — Cross-Platform Arcade Combat Web Game](https://github.com/Jubayer-AI-Studio/Shafin-Blade-Fighter-Game)
-> **Status:** `🎮 60 FPS OPTIMIZED` &nbsp;|&nbsp; **Engine:** `Custom HTML5 Canvas` &nbsp;|&nbsp; **Audio:** `Web Audio Synthesizer`
+
+<div align="center">
+  <a href="https://github.com/Jubayer-AI-Studio/Shafin-Blade-Fighter-Game">
+    <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/Shafin-Blade-Fighter-Game/main/assets/social_preview.png" width="100%" alt="Shafin Blade Fighter Banner" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(245, 158, 11, 0.25);" />
+  </a>
+</div>
+
+<br/>
+
+> **Architecture:** `HTML5 Canvas` • `JavaScript (ES6+)` • `Web Audio API` • `Three.js` • `PWA`  
+> **Operational Scope:** `60 FPS Locked` | `Zero GPU Overhead` | `Frame-Accurate Hitboxes`
 
 * **The Problem & Solution:** Heavy 3D game engines require massive downloads and high GPU overhead. Shafin Blade Fighter delivers a fast, responsive fighting game directly in any browser with instant loading.
 * **Key Engineered Capabilities:**
@@ -143,77 +155,51 @@ A curated selection of mission-critical software systems showcasing architectura
   * 🔊 **Web Audio Synthesizer:** Procedural impact sounds and audio feedback without latency or asset lag.
   * 📱 **Adaptive Multi-Device Input:** Unified input system supporting physical keyboards, gamepads, and virtual on-screen touch controls.
   * 📦 **Offline PWA Engine:** Fully installable and playable offline without internet connectivity.
-* **Stack:** `HTML5 Canvas` • `JavaScript (ES6+)` • `Web Audio API` • `PWA` • `CSS3`
-* **Live Access & Source:**
-  <br/>
+
+<div align="center">
   <a href="https://jubayer-ai-studio.github.io/Shafin-Blade-Fighter-Game/" target="_blank">
     <img src="https://img.shields.io/badge/Play_Now-Instant_60FPS-00C853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Game" />
   </a>
   <a href="https://github.com/Jubayer-AI-Studio/Shafin-Blade-Fighter-Game" target="_blank">
     <img src="https://img.shields.io/badge/Explore-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
+  <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
+</div>
 
 ---
 
-#### 4. ⚡ [Social Media & Reels AI Automator — 24/7 Content & Interaction Engine](https://github.com/Jubayer-AI-Studio/AI__automation)
-> **Status:** `🤖 24/7 AUTONOMOUS` &nbsp;|&nbsp; **Heuristics:** `Anti-Detection Engine` &nbsp;|&nbsp; **Media:** `FFmpeg Automated Rendering`
+#### 4. 🎙️ [Shono AI (শোনো এআই) — Regional Dialect-Aware Real-Time Voice HUD](https://github.com/Jubayer-AI-Studio/Shono-AI-Bangladeshi-Jarvis)
 
-* **The Problem & Solution:** Managing continuous customer outreach and content production requires 24/7 operational vigilance. This engine automates lead engagement, comment management, and short-video synthesis.
-* **Key Engineered Capabilities:**
-  * 💬 **24/7 Telegram AI Assistant:** Multithreaded bot continuously responding to user queries and executing automation workflows.
-  * 🛡️ **Anti-Detection Automation:** Human-like randomized delays, natural cursor movement, and cookie session management bypassing automated bot filters.
-  * 🎬 **Automated Reels Video Renderer:** Automated FFmpeg batch rendering pipeline compiling video clips, audio tracks, and animated overlays.
-* **Stack:** `Python` • `Selenium` • `Telegram Bot API` • `Gemini AI` • `FFmpeg` • `Threading`
-* **Live Access & Source:**
-  <br/>
-  <a href="https://github.com/Jubayer-AI-Studio/AI__automation" target="_blank">
-    <img src="https://img.shields.io/badge/View-Bot_Pipeline-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+<div align="center">
+  <a href="https://github.com/Jubayer-AI-Studio/Shono-AI-Bangladeshi-Jarvis">
+    <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/Shono-AI-Bangladeshi-Jarvis/main/assets/social_preview.png" width="100%" alt="Shono AI Banner" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(168, 85, 247, 0.25);" />
   </a>
-  <a href="https://github.com/Jubayer-AI-Studio/AI__automation" target="_blank">
-    <img src="https://img.shields.io/badge/Explore-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
+</div>
 
----
+<br/>
 
-#### 5. 🎙️ [Shono AI (শোনো এআই) — Regional Dialect-Aware Voice AI System](https://github.com/Jubayer-AI-Studio/Shono-AI-Bangladeshi-Jarvis)
-> **Status:** `🇧🇩 LOCALIZED SPEECH PIPELINE` &nbsp;|&nbsp; **UI:** `Cyberpunk Voice HUD`
+> **Architecture:** `JavaScript` • `Web Speech API` • `Web Audio API` • `Tailwind CSS`  
+> **Operational Scope:** `Sylheti, Chatgaya & Dhakaiya Dialects` | `Animated Cyberpunk HUD`
 
-* **The Problem & Solution:** Global voice assistants fail to understand regional Bengali dialects. Shono AI provides an architectural blueprint and interface tailored to native linguistic nuances (Sylheti, Chatgaya, Dhakaiya).
+* **The Problem & Solution:** Global voice assistants fail to understand regional Bengali dialects. Shono AI provides an architectural blueprint and interface tailored to native linguistic nuances.
 * **Key Engineered Capabilities:**
-  * 🗣️ **Dialect-to-Intent Pipeline:** Maps spoken regional phonetics to structured API execution commands.
+  * 🗣️ **Dialect Intent Mapping:** Maps spoken regional phonetics to structured API execution commands.
   * 🌌 **Cyberpunk Interactive HUD:** Real-time animated audio spectrum visualizer with cyberpunk aesthetics and live feedback.
-* **Stack:** `JavaScript` • `Web Speech API` • `Tailwind CSS` • `Audio Context API`
-* **Live Access & Source:**
-  <br/>
+  * ⚡ **Zero-Latency Pipeline:** Instant client-side speech processing with adaptive audio thresholding.
+
+<div align="center">
   <a href="https://jubayer-ai-studio.github.io/Shono-AI-Bangladeshi-Jarvis/" target="_blank">
-    <img src="https://img.shields.io/badge/Launch-Voice_HUD-8E75C2?style=for-the-badge&logo=googlepodcasts&logoColor=white" alt="Voice HUD" />
+    <img src="https://img.shields.io/badge/Launch-Voice_HUD-8E75C2?style=for-the-badge&logo=googlepodcasts&logoColor=white" alt="Launch HUD" />
   </a>
   <a href="https://github.com/Jubayer-AI-Studio/Shono-AI-Bangladeshi-Jarvis" target="_blank">
     <img src="https://img.shields.io/badge/Explore-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
+  <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
+</div>
 
 ---
 
-#### 6. 📺 [YouTube Automation Engine — Autonomous Video Publishing Pipeline](https://github.com/Jubayer-AI-Studio/YouTube-Automation-Bot)
-> **Status:** `📈 CLOUD CONTENT PIPELINE` &nbsp;|&nbsp; **API:** `YouTube Data API v3`
-
-* **The Problem & Solution:** Manual video publishing involves repetitive thumbnail generation, tag research, and scheduling. This engine automates the entire upload pipeline via official APIs.
-* **Key Engineered Capabilities:**
-  * 🎨 **Dynamic Thumbnail Engine:** Automated Pillow (PIL) graphic synthesis generating high-CTR thumbnails with custom typography and glow borders.
-  * ☁️ **OAuth2 Scheduled Uploads:** Programmatic uploads to YouTube Data API v3 with quota tracking and automatic error recovery.
-* **Stack:** `Python` • `YouTube Data API v3` • `Pillow (PIL)` • `Google OAuth`
-* **Live Access & Source:**
-  <br/>
-  <a href="https://github.com/Jubayer-AI-Studio/YouTube-Automation-Bot" target="_blank">
-    <img src="https://img.shields.io/badge/View-Upload_Engine-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Engine" />
-  </a>
-  <a href="https://github.com/Jubayer-AI-Studio/YouTube-Automation-Bot" target="_blank">
-    <img src="https://img.shields.io/badge/Explore-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-
----
-
-### 🐍 Interactive Contribution Matrix
+### 🐍 Activity Matrix
 
 <div align="center">
   <picture>
@@ -225,50 +211,14 @@ A curated selection of mission-critical software systems showcasing architectura
 
 ---
 
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-#### 🌐 Frontend & Core Web Technologies
-![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-
-#### ⚙️ Backend, AI & High-Scale Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-#### 🗄️ Database, Spatial GIS & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Leaflet GIS](https://img.shields.io/badge/Leaflet_GIS-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Analytics
+### 📊 Telemetry Analytics
 
 <div align="center">
   <a href="https://github.com/Jubayer-AI-Studio">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-AI-Studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-AI-Studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=94a3b8&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Jubayer-AI-Studio">
-    <img src="https://streak-stats.demolab.com?user=Jubayer-AI-Studio&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&dates=94a3b8" height="175" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Jubayer-AI-Studio&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff&sideNums=00e5ff&sideLabels=94a3b8&dates=94a3b8" height="175" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -276,18 +226,18 @@ A curated selection of mission-critical software systems showcasing architectura
 
 <div align="center">
   <a href="https://github.com/Jubayer-AI-Studio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-AI-Studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" height="175" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-AI-Studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=94a3b8&langs_count=8" height="175" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
-### 📬 Connect & Collaborate
+### 📬 Connect & Dispatch
 
 <div align="center">
 
-<h3>Let's Build High-Impact Systems Together</h3>
-<p>Open for full-stack engineering, complex SaaS architecture, and autonomous AI system engagements.</p>
+<h3>Let's Architect High-Impact Systems Together</h3>
+<p>Open for enterprise full-stack engineering, complex SaaS architecture, and autonomous AI system engagements.</p>
 
 <a href="mailto:jubayerahmadaistudio@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-jubayerahmadaistudio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -295,14 +245,14 @@ A curated selection of mission-critical software systems showcasing architectura
 <a href="https://github.com/Jubayer-AI-Studio">
   <img src="https://img.shields.io/badge/GitHub-Jubayer--AI--Studio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://jubayer-ai-studio.github.io/jubayer-ai-studio/">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Site-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/jubayer-ahmad/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://jubayer-portfolio-delta.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Site-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
 </a>
 <a href="https://www.facebook.com/jubayeradam">
   <img src="https://img.shields.io/badge/Facebook-jubayeradam-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://wa.me/8801354840991">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 </div>
