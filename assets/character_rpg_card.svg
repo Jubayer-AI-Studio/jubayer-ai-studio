@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="100%" height="100%">
+  <defs>
+    <style>
+      .text-title { font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 800; fill: #1c1917; }
+      .text-sub { font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 600; fill: #57534e; }
+      .text-mono { font-family: 'Consolas', monospace; font-weight: 700; }
+      .bar-fill { height: 10px; rx: 5px; }
+      @keyframes pulseGlow { 0%, 100% { opacity: 0.5; } 50% { opacity: 0.9; } }
+      .pulse { animation: pulseGlow 2.5s infinite; }
+    </style>
+    <linearGradient id="warmBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5EEE2" />
+      <stop offset="100%" stop-color="#EBE0CD" />
+    </linearGradient>
+    <linearGradient id="forestCard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142c22" />
+      <stop offset="100%" stop-color="#0b1b14" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#7a4825" flood-opacity="0.16" />
+    </filter>
+  </defs>
+
+  <!-- Background in Warm Cream Beige -->
+  <rect width="1200" height="480" rx="20" fill="url(#warmBg)" stroke="#D5C2A5" stroke-width="2" />
+
+  <!-- Outer Framing -->
+  <g transform="translate(50, 40)">
+    <!-- Header Pill -->
+    <rect width="380" height="32" rx="16" fill="#10241D" stroke="#10B981" stroke-width="1.2" />
+    <circle cx="16" cy="16" r="4" fill="#10B981" />
+    <text x="32" y="21" class="text-mono" font-size="12" fill="#10B981">⚔️ PLAYER 1 STATUS // RPG CHARACTER CONSOLE</text>
+
+    <!-- Main Title -->
+    <text x="0" y="75" class="text-title" font-size="34">SYSTEM.KERNEL // CHARACTER ATTRIBUTES</text>
+    <text x="0" y="105" class="text-sub" font-size="16">Autonomous Systems Architect &amp; 3D Game Crafter • Level 99 SSS-Rank</text>
+
+    <!-- Content Grid: Left Code Terminal, Right RPG Stats -->
+    <!-- Left: TypeScript Terminal (Forest Green Container) -->
+    <g transform="translate(0, 130)">
+      <rect width="530" height="260" rx="14" fill="url(#forestCard)" stroke="#1F4234" stroke-width="1.5" filter="url(#shadow)" />
+      
+      <!-- Terminal Window Bar -->
+      <circle cx="20" cy="18" r="5" fill="#EF4444" />
+      <circle cx="36" cy="18" r="5" fill="#F59E0B" />
+      <circle cx="52" cy="18" r="5" fill="#10B981" />
+      <text x="75" y="22" class="text-mono" font-size="11" fill="#64748B">developer.ts — systems-architect</text>
+
+      <!-- Code Text Lines -->
+      <g transform="translate(20, 50)" class="text-mono" font-size="12">
+        <text y="0" fill="#C678DD">const <tspan fill="#61AFEF">developer</tspan>: <tspan fill="#E5C07B">SystemsArchitect</tspan> = {</text>
+        <text y="24" fill="#E06C75">  name: <tspan fill="#98C379">"Jubayer Ahmad"</tspan>,</text>
+        <text y="48" fill="#E06C75">  rank: <tspan fill="#98C379">"Level 99 Boss (Max SSS-Tier)"</tspan>,</text>
+        <text y="72" fill="#E06C75">  guild: <tspan fill="#98C379">"Jubayer AI Studio (Dhaka 🇧🇩)"</tspan>,</text>
+        <text y="96" fill="#E06C75">  mythicWeapon: <tspan fill="#98C379">"Next.js 15 Excalibur (0ms Latency)"</tspan>,</text>
+        <text y="120" fill="#E06C75">  defenseArmor: <tspan fill="#98C379">"Drizzle ORM &amp; Postgres Aegis"</tspan>,</text>
+        <text y="144" fill="#E06C75">  relicVision: <tspan fill="#98C379">"Gemini AI &amp; Biometric Voiceprint"</tspan>,</text>
+        <text y="168" fill="#E06C75">  activeStatus: <tspan fill="#98C379">"ONLINE_FOR_HIGH_IMPACT_ENGAGEMENTS"</tspan></text>
+        <text y="194" fill="#C678DD">};</text>
+      </g>
+    </g>
+
+    <!-- Right: Attribute Skill Meters (Forest Green Container) -->
+    <g transform="translate(560, 130)">
+      <rect width="540" height="260" rx="14" fill="url(#forestCard)" stroke="#1F4234" stroke-width="1.5" filter="url(#shadow)" />
+      
+      <text x="25" y="32" class="text-mono" font-size="13" fill="#D97706">⚡ COMBAT &amp; ARCHITECTURAL ATTRIBUTES:</text>
+
+      <!-- Skill 1 -->
+      <g transform="translate(25, 55)">
+        <text x="0" y="14" class="text-mono" font-size="12" fill="#F8FAFC">Backend &amp; Distributed Systems (Next.js, Node, Postgres)</text>
+        <text x="440" y="14" class="text-mono" font-size="12" fill="#10B981">99 / 99</text>
+        <rect y="22" width="490" height="8" rx="4" fill="#1C382B" />
+        <rect y="22" width="485" height="8" rx="4" fill="#10B981" />
+      </g>
+
+      <!-- Skill 2 -->
+      <g transform="translate(25, 105)">
+        <text x="0" y="14" class="text-mono" font-size="12" fill="#F8FAFC">3D WebGL, Canvas &amp; Game Physics (Three.js, RigidBody)</text>
+        <text x="440" y="14" class="text-mono" font-size="12" fill="#00E5FF">98 / 99</text>
+        <rect y="22" width="490" height="8" rx="4" fill="#1C382B" />
+        <rect y="22" width="478" height="8" rx="4" fill="#00E5FF" />
+      </g>
+
+      <!-- Skill 3 -->
+      <g transform="translate(25, 155)">
+        <text x="0" y="14" class="text-mono" font-size="12" fill="#F8FAFC">Autonomous AI, Voiceprint &amp; Vision (OpenCV, Gemini)</text>
+        <text x="440" y="14" class="text-mono" font-size="12" fill="#F59E0B">99 / 99</text>
+        <rect y="22" width="490" height="8" rx="4" fill="#1C382B" />
+        <rect y="22" width="485" height="8" rx="4" fill="#F59E0B" />
+      </g>
+
+      <!-- Skill 4 -->
+      <g transform="translate(25, 205)">
+        <text x="0" y="14" class="text-mono" font-size="12" fill="#F8FAFC">Enterprise Cloud, RBAC Security &amp; DevOps (Docker, Linux)</text>
+        <text x="440" y="14" class="text-mono" font-size="12" fill="#A855F7">95 / 99</text>
+        <rect y="22" width="490" height="8" rx="4" fill="#1C382B" />
+        <rect y="22" width="460" height="8" rx="4" fill="#A855F7" />
+      </g>
+    </g>
+  </g>
+</svg>

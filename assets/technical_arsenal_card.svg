@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="100%" height="100%">
+  <defs>
+    <style>
+      .text-title { font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 800; fill: #1c1917; }
+      .text-sub { font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 600; fill: #57534e; }
+      .text-mono { font-family: 'Consolas', monospace; font-weight: 700; }
+    </style>
+    <linearGradient id="warmBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5EEE2" />
+      <stop offset="100%" stop-color="#EBE0CD" />
+    </linearGradient>
+    <linearGradient id="forestCard" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142c22" />
+      <stop offset="100%" stop-color="#0b1b14" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#7a4825" flood-opacity="0.16" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="460" rx="20" fill="url(#warmBg)" stroke="#D5C2A5" stroke-width="2" />
+
+  <g transform="translate(50, 40)">
+    <rect width="360" height="32" rx="16" fill="#10241D" stroke="#10B981" stroke-width="1.2" />
+    <circle cx="16" cy="16" r="4" fill="#10B981" />
+    <text x="32" y="21" class="text-mono" font-size="12" fill="#10B981">🛠️ TECHNICAL ARSENAL // LEGENDARY GEAR</text>
+
+    <text x="0" y="75" class="text-title" font-size="34">WEAPONS OF SYSTEM ARCHITECTURE</text>
+    <text x="0" y="105" class="text-sub" font-size="16">Categorized production competencies rated for zero-latency execution</text>
+
+    <!-- 3 Rows of Arsenal Containers -->
+    <!-- Row 1: Frontend & 3D WebGL -->
+    <g transform="translate(0, 125)">
+      <rect width="1100" height="85" rx="14" fill="url(#forestCard)" stroke="#1F4234" stroke-width="1.2" filter="url(#shadow)" />
+      <rect width="5" height="85" rx="2" fill="#FFB800" />
+      <text x="24" y="28" class="text-mono" font-size="13" fill="#FFB800">🗡️ MYTHIC WEAPONS // FRONTEND &amp; 3D WEBGL ENGINES:</text>
+      <!-- Skill Chips -->
+      <g transform="translate(24, 42)">
+        <rect width="90" height="28" rx="6" fill="#1F3D30" /><text x="12" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Next.js 15</text>
+        <rect x="100" width="85" height="28" rx="6" fill="#1F3D30" /><text x="112" y="18" class="text-mono" font-size="11" fill="#F8FAFC">React 19</text>
+        <rect x="195" width="105" height="28" rx="6" fill="#1F3D30" /><text x="207" y="18" class="text-mono" font-size="11" fill="#F8FAFC">TypeScript</text>
+        <rect x="310" width="95" height="28" rx="6" fill="#1F3D30" /><text x="322" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Three.js 3D</text>
+        <rect x="415" width="105" height="28" rx="6" fill="#1F3D30" /><text x="427" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Tailwind CSS</text>
+        <rect x="530" width="115" height="28" rx="6" fill="#1F3D30" /><text x="542" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Canvas 2D/3D</text>
+        <rect x="655" width="125" height="28" rx="6" fill="#1F3D30" /><text x="667" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Web Audio API</text>
+        <rect x="790" width="85" height="28" rx="6" fill="#1F3D30" /><text x="802" y="18" class="text-mono" font-size="11" fill="#F8FAFC">PWA Engine</text>
+      </g>
+    </g>
+
+    <!-- Row 2: AI & Backend Runtimes -->
+    <g transform="translate(0, 225)">
+      <rect width="1100" height="85" rx="14" fill="url(#forestCard)" stroke="#1F4234" stroke-width="1.2" filter="url(#shadow)" />
+      <rect width="5" height="85" rx="2" fill="#10B981" />
+      <text x="24" y="28" class="text-mono" font-size="13" fill="#10B981">🔮 LEGENDARY GRIMOIRES // AUTONOMOUS AI &amp; RUNTIMES:</text>
+      <!-- Skill Chips -->
+      <g transform="translate(24, 42)">
+        <rect width="95" height="28" rx="6" fill="#1F3D30" /><text x="12" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Python 3.11</text>
+        <rect x="105" width="125" height="28" rx="6" fill="#1F3D30" /><text x="117" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Gemini 3.7 Flash</text>
+        <rect x="240" width="85" height="28" rx="6" fill="#1F3D30" /><text x="252" y="18" class="text-mono" font-size="11" fill="#F8FAFC">FastAPI</text>
+        <rect x="335" width="95" height="28" rx="6" fill="#1F3D30" /><text x="347" y="18" class="text-mono" font-size="11" fill="#F8FAFC">OpenCV 4</text>
+        <rect x="440" width="95" height="28" rx="6" fill="#1F3D30" /><text x="452" y="18" class="text-mono" font-size="11" fill="#F8FAFC">MediaPipe</text>
+        <rect x="545" width="85" height="28" rx="6" fill="#1F3D30" /><text x="557" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Node.js</text>
+        <rect x="640" width="115" height="28" rx="6" fill="#1F3D30" /><text x="652" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Google Veo 3.1</text>
+        <rect x="765" width="135" height="28" rx="6" fill="#1F3D30" /><text x="777" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Worker Automation</text>
+      </g>
+    </g>
+
+    <!-- Row 3: Databases & DevOps -->
+    <g transform="translate(0, 325)">
+      <rect width="1100" height="85" rx="14" fill="url(#forestCard)" stroke="#1F4234" stroke-width="1.2" filter="url(#shadow)" />
+      <rect width="5" height="85" rx="2" fill="#00E5FF" />
+      <text x="24" y="28" class="text-mono" font-size="13" fill="#00E5FF">🛡️ DEFENSIVE RELICS // DATABASES, CLOUD &amp; DEVOPS:</text>
+      <!-- Skill Chips -->
+      <g transform="translate(24, 42)">
+        <rect width="95" height="28" rx="6" fill="#1F3D30" /><text x="12" y="18" class="text-mono" font-size="11" fill="#F8FAFC">PostgreSQL</text>
+        <rect x="105" width="95" height="28" rx="6" fill="#1F3D30" /><text x="117" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Drizzle ORM</text>
+        <rect x="210" width="85" height="28" rx="6" fill="#1F3D30" /><text x="222" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Supabase</text>
+        <rect x="305" width="75" height="28" rx="6" fill="#1F3D30" /><text x="317" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Docker</text>
+        <rect x="390" width="135" height="28" rx="6" fill="#1F3D30" /><text x="402" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Cloudflare Tunnel</text>
+        <rect x="535" width="65" height="28" rx="6" fill="#1F3D30" /><text x="547" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Linux</text>
+        <rect x="610" width="105" height="28" rx="6" fill="#1F3D30" /><text x="622" y="18" class="text-mono" font-size="11" fill="#F8FAFC">Git &amp; GitHub</text>
+        <rect x="725" width="115" height="28" rx="6" fill="#1F3D30" /><text x="737" y="18" class="text-mono" font-size="11" fill="#F8FAFC">RBAC Security</text>
+      </g>
+    </g>
+  </g>
+</svg>
