@@ -13,7 +13,7 @@
   <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTFOLIO-LIVE_SITE-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Official Live Portfolio" />
   </a>
-  <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+  <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🏎️_BRUNO_3D_WORLD-ONLINE_60FPS-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Bruno 3D" />
   </a>
   <img src="https://img.shields.io/badge/👑_PLAYER_1-JUBAYER_[LVL_99]-10241D?style=for-the-badge&logo=gamepad&logoColor=10B981" alt="Player 1" />
@@ -33,7 +33,7 @@
 <!-- 2. 3D VIRTUAL ARCHIVE // BOOKSHELF & ARCADE KIOSK (Warm Cream #EBE0CD)     -->
 <!-- ========================================================================= -->
 <div align="center">
-  <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+  <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
     <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/og_banners/jubayer_3d_bookshelf_kiosk.png" width="100%" alt="3D Bookshelf and Arcade Kiosk" style="border-radius: 16px; box-shadow: 0 16px 40px rgba(122, 72, 37, 0.25);" />
   </a>
 </div>
@@ -41,7 +41,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+  <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🏎️_DRIVE-BRUNO_3D_WORLD-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Play Bruno 3D" />
   </a>
   <a href="https://jubayer-ai-studio.github.io/Shafin-Blade-Fighter-Game/" target="_blank">
@@ -67,7 +67,7 @@
 <!-- 3. 3D ISOMETRIC VIRTUAL REALM HERO BANNER (Warm Cream #EBE0CD)             -->
 <!-- ========================================================================= -->
 <div align="center">
-  <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+  <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
     <img src="https://raw.githubusercontent.com/Jubayer-AI-Studio/jubayer-ai-studio/main/assets/og_banners/jubayer_3d_world_banner.png" width="100%" alt="3D Isometric World Banner" style="border-radius: 16px; box-shadow: 0 16px 40px rgba(16, 185, 129, 0.2);" />
   </a>
 </div>
@@ -75,7 +75,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+  <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🎮_ENTER_3D_WORLD-LAUNCH_WEBGL-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Launch 3D World" />
   </a>
   <a href="https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS" target="_blank">
@@ -240,7 +240,7 @@
 <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Official_Portfolio-jubayer--portfolio--delta.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Official Live Portfolio" />
 </a>
-<a href="https://jubayer-ai-studio.github.io/ultra-portfolio/" target="_blank">
+<a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Play_Bruno_3D_Arcade-Live_WebGL-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Bruno 3D Arcade" />
 </a>
 <a href="https://github.com/Jubayer-AI-Studio">
