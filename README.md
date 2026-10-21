@@ -47,7 +47,7 @@
         <li>🤖 <b>Autonomous AI Integration:</b> Embedding generative AI, biometric voiceprint authentication, and real-time computer vision into resilient native and web runtimes.</li>
         <li>⚡ <b>High-Throughput Automation:</b> Crafting self-healing worker bots, anti-detection web scrapers, and multithreaded FFmpeg video synthesis engines.</li>
       </ul>
-      <p>📬 <b>Direct Inquiries:</b> <a href="mailto:jubayerahmad.aistudio@gmail.com"><b>jubayerahmad.aistudio@gmail.com</b></a></p>
+      <p>📬 <b>Direct Inquiries:</b> <a href="mailto:jubayerahmadaistudio@gmail.com"><b>jubayerahmadaistudio@gmail.com</b></a></p>
     </td>
   </tr>
 </table>
@@ -285,8 +285,8 @@ A curated selection of mission-critical software systems showcasing architectura
 <h3>Let's Build High-Impact Systems Together</h3>
 <p>Open for full-stack engineering, complex SaaS architecture, and autonomous AI system engagements.</p>
 
-<a href="mailto:jubayerahmad.aistudio@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-jubayerahmad.aistudio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:jubayerahmadaistudio@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-jubayerahmadaistudio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/Jubayer-AI-Studio">
   <img src="https://img.shields.io/badge/GitHub-Jubayer--AI--Studio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
