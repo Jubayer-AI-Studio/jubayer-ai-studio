@@ -42,16 +42,16 @@
 
 <div align="center">
   <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🏎️_DRIVE-BRUNO_3D_WORLD-B6743F?style=for-the-badge&logo=three.js&logoColor=white" alt="Play Bruno 3D" />
+    <img src="https://img.shields.io/badge/🌐_OFFICIAL_PORTFOLIO-LIVE_SITE-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
-  <a href="https://jubayer-ai-studio.github.io/Shafin-Blade-Fighter-Game/" target="_blank">
-    <img src="https://img.shields.io/badge/⚔️_FIGHT-BLADE_FIGHTER_3D-10B981?style=for-the-badge&logo=sword&logoColor=white" alt="Play Fighter" />
+  <a href="https://amar-world-map.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🗺️_AMAR_WORLD_MAP-LIVE_TRACKER-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amar World Map" />
   </a>
-  <a href="https://ai.studio/apps/24f3c1f3-62f7-47d2-a4c1-7e95961a9120" target="_blank">
-    <img src="https://img.shields.io/badge/🏎️_RACE-SHAFIN_NAFIS_3D-00E5FF?style=for-the-badge&logo=speedtest&logoColor=black" alt="Play Racer" />
+  <a href="https://electronics-importers-bd.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🔌_ELECTRONICS_BD-B2B_PLATFORM-00E5FF?style=for-the-badge&logo=probot&logoColor=black" alt="Electronics Importers BD" />
   </a>
-  <a href="https://ai.studio/apps/8bc3f588-063b-4d86-85fc-f9115b059d7a" target="_blank">
-    <img src="https://img.shields.io/badge/🏃_SPRINT-JUBAYER_LEGENDS_3D-A855F7?style=for-the-badge&logo=runkeeper&logoColor=white" alt="Play Runner" />
+  <a href="https://mesk-nine.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/📚_MESHK_PROKASHON-PUBLISHING_HOUSE-B6743F?style=for-the-badge&logo=book&logoColor=white" alt="Meshk Prokashon" />
   </a>
 </div>
 
@@ -151,16 +151,16 @@
 
 <div align="center">
   <a href="https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS" target="_blank">
-    <img src="https://img.shields.io/badge/🏰_NoorHub-Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="NoorHub Demo" />
+    <img src="https://img.shields.io/badge/🏰_NoorHub_SaaS-Next.js_15_Cloud-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="NoorHub SaaS" />
   </a>
-  <a href="https://github.com/Jubayer-AI-Studio/Jubayer-Jarvis-AI-Automation" target="_blank">
-    <img src="https://img.shields.io/badge/🤖_Jarvis_AI-Source_Code-10241D?style=for-the-badge&logo=github&logoColor=10B981" alt="Jarvis Code" />
+  <a href="https://github.com/Jubayer-AI-Studio/amar-world-map" target="_blank">
+    <img src="https://img.shields.io/badge/🗺️_Amar_World_Map-Live_Travel_Tracker-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amar World Map" />
   </a>
-  <a href="https://jubayer-ai-studio.github.io/Shafin-Blade-Fighter-Game/" target="_blank">
-    <img src="https://img.shields.io/badge/⚔️_Blade_Fighter-Play_60FPS-F59E0B?style=for-the-badge&logo=googleplay&logoColor=black" alt="Blade Fighter" />
+  <a href="https://github.com/Jubayer-AI-Studio/electronics-importers-bd" target="_blank">
+    <img src="https://img.shields.io/badge/🔌_Electronics_BD-B2B_Platform-00E5FF?style=for-the-badge&logo=probot&logoColor=black" alt="Electronics BD" />
   </a>
-  <a href="https://github.com/Jubayer-AI-Studio/Shono-AI-Bangladeshi-Jarvis" target="_blank">
-    <img src="https://img.shields.io/badge/🎙️_Shono_AI-Speech_HUD-8E75C2?style=for-the-badge&logo=googlepodcasts&logoColor=white" alt="Shono AI" />
+  <a href="https://github.com/Jubayer-AI-Studio/mesk" target="_blank">
+    <img src="https://img.shields.io/badge/📚_Meshk_Prokashon-Publishing_Portal-B6743F?style=for-the-badge&logo=book&logoColor=white" alt="Meshk Prokashon" />
   </a>
 </div>
 
