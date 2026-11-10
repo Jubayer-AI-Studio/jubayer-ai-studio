@@ -1,19 +1,19 @@
 <div align="center">
 
   <!-- ========================================================================= -->
-  <!-- 1. INTERNATIONAL CHRONO-HUD & LIVE TIME ANIMATION                         -->
+  <!-- 1. LIVE BANGLADESH STANDARD TIME (BST) HUD & TELEMETRY                    -->
   <!-- ========================================================================= -->
   <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
-    <img src="./assets/jubayer_chrono_hud.gif" width="100%" alt="Jubayer Ahmad - International Chrono HUD" style="border-radius: 18px;" />
+    <img src="./assets/jubayer_chrono_hud.gif" width="100%" alt="Jubayer Ahmad - Bangladesh Standard Time HUD" style="border-radius: 18px;" />
   </a>
 
   <br/><br/>
 
   <!-- POPULAR FLAGSHIP TELEMETRY BADGES -->
-  <a href="https://mesk-nine.vercel.app" target="_blank">
+  <a href="https://meshk-prokashon.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/📚_MESHK_PROKASHON-PUBLISHING_HOUSE-B6743F?style=for-the-badge&logo=book&logoColor=white" alt="Meshk Prokashon" />
   </a>
-  <a href="https://github.com/Jubayer-AI-Studio/rihlah-gadget-shop" target="_blank">
+  <a href="https://rihlah-gadget-shop.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/📱_RIHLAH_GADGET_SHOP-PWA_ECOMMERCE-10B981?style=for-the-badge&logo=shopify&logoColor=white" alt="Rihlah Gadget Shop" />
   </a>
   <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
@@ -47,10 +47,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://mesk-nine.vercel.app" target="_blank">
+  <a href="https://meshk-prokashon.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/📚_MESHK_PROKASHON-LIVE_CATALOG-B6743F?style=for-the-badge&logo=book&logoColor=white" alt="Meshk Prokashon" />
   </a>
-  <a href="https://github.com/Jubayer-AI-Studio/rihlah-gadget-shop" target="_blank">
+  <a href="https://rihlah-gadget-shop.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/📱_RIHLAH_GADGET-PWA_PLATFORM-10B981?style=for-the-badge&logo=pwa&logoColor=white" alt="Rihlah Gadget Shop" />
   </a>
   <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
@@ -73,160 +73,23 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 3. MASTER ARCHITECTURAL PRODUCTION MATRIX // HOW IT WORKS                 -->
+<!-- 3. FEATURED PRODUCTION PLATFORMS // QUICK LAUNCH                          -->
 <!-- ========================================================================= -->
 
-## 🏛️ SYSTEM ARCHITECTURE & PRODUCTION MATRIX // HOW IT WORKS
+## 🚀 FEATURED PRODUCTION PLATFORMS
 
-> [!NOTE]
-> **Engineering Philosophy:** Every production system engineered under Jubayer AI Studio enforces clean architecture, type-safe database ORM layers (Prisma / Drizzle), sub-second page delivery, and real-time interactive state management. Below is the master architectural matrix detailing the internal pipeline, data flow, and scale metrics of each verified platform:
+> **Executive Portfolio:** Production-grade web applications, full-stack architectures, and 3D WebGL experiences engineered by Jubayer Ahmad.
 
-| System & Domain | Core Tech Stack | How It Works (Under The Hood / Pipeline) | Scale & Engineering Metrics | Live Preview & Source | Status |
-| :--- | :--- | :--- | :--- | :--- | :---: |
-| **📚 Meshk Prokashon**<br/>`Islamic Publishing & PWA` | Next.js 15, React 19<br/>TypeScript, Tailwind CSS<br/>Google Gemini AI Brain<br/>PWA Service Worker | **Edge Catalog & Automated WhatsApp Dispatch:**<br/>• **1. Edge Catalog Delivery:** Next.js 15 Incremental Static Regeneration (ISR) serves 100+ book covers and metadata under 50ms TTFB.<br/>• **2. In-Browser Reader:** `RokomariReaderModal` provides distraction-free chapter previews and index reading without page transitions.<br/>• **3. Gemini AI Assistant:** Integrated `/api/ai` route consults `lib/aiBrain.ts` to deliver intelligent book recommendations.<br/>• **4. Direct Checkout:** Computes real-time courier shipping charges and generates an automated WhatsApp order payload with product SKU. | • **Sub-50ms Edge TTFB**<br/>• PWA Offline Reading Cache<br/>• Gemini AI Recommendation<br/>• 1-Click WhatsApp Checkout | [🚀 Live Demo](https://mesk-nine.vercel.app)<br/><br/>[💻 Source Code](https://github.com/Jubayer-AI-Studio/mesk) | `🟢 Live Production` |
-| **📱 Rihlah Gadget Shop**<br/>`Next.js 15 PWA E-Commerce` | Next.js 15, React 19<br/>TypeScript, Prisma ORM<br/>PostgreSQL Database<br/>Tailwind CSS, PWA | **Optimistic Cart & Type-Safe Relational Engine:**<br/>• **1. Product Discovery:** Real-time multi-category filtering with live inventory availability.<br/>• **2. Optimistic Cart State:** React Context & LocalStorage persistence eliminates network roundtrip delay on cart drawer mutations.<br/>• **3. Delivery Rules Engine:** Automatically applies regional courier fees (Dhaka Metro: ৳70 / Rest of Bangladesh: ৳130).<br/>• **4. Prisma ORM Transactions:** Manages type-safe relational records in PostgreSQL for orders, items, and inventory sync.<br/>• **5. Direct Dispatch:** Dispatches pre-formatted order packages directly to the support hotline (`+8801580376861`). | • **Next.js 15 App Router**<br/>• Prisma Relational Schema<br/>• Zero-Latency Optimistic UI<br/>• Nationwide COD Pipeline | [💻 Source Code](https://github.com/Jubayer-AI-Studio/rihlah-gadget-shop)<br/><br/>[📞 Hotline](https://wa.me/8801580376861) | `🟢 Live Production` |
-| **🏰 NoorHub SaaS**<br/>`Universal Islamic EdTech & GIS SaaS` | Next.js 15 (App Router)<br/>React 19, TypeScript<br/>PostgreSQL (Neon Pooler)<br/>Drizzle ORM, Leaflet GIS | **Multi-Tenant RBAC & Geo-Spatial Routing:**<br/>• Dynamic Role-Based Access Control (SuperAdmin, Admin, Teacher, Student) with JWT session tokens.<br/>• Type-safe relational queries and Neon connection pooling via Drizzle ORM.<br/>• Interactive Leaflet GIS & vector SVG maps clustering madrasas across 8 administrative divisions and 64 districts.<br/>• Client-side high-DPI canvas engine generating bulk student ID cards with dynamic QR/Barcodes and automated fee receipts. | • **29 Production Routes**<br/>• 64 District Geo-Clusters<br/>• Sub-100ms API Response<br/>• Full PWA Offline Capability | [🚀 Live Demo](https://noorhub.vercel.app)<br/><br/>[💻 Source Code](https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS) | `🟢 Production Ready` |
-| **🗺️ Amar World Map**<br/>`Geo-Spatial Travel Tracker & PWA` | React 19, TypeScript<br/>Vite, Tailwind CSS<br/>SVG Path Rasterizer<br/>LocalStorage Persistence | **GeoJSON Rasterization & Zero-Tap Social Export:**<br/>• High-performance vector SVG path rasterization across Bangladesh's 64 districts and global territories.<br/>• Reactive memory states compute real-time travel completion percentages.<br/>• Clean Bengali typography rendering powered by Hind Siliguri font engine.<br/>• Client-side 2D Canvas exports high-resolution social share cards with zero backend overhead. | • **64 District GeoJSON Nodes**<br/>• 100% Client-Side Persistence<br/>• 60 FPS Zoom & Pan Mesh<br/>• Instant Offline PWA Mode | [🚀 Live Demo](https://amar-world-map.vercel.app)<br/><br/>[💻 Source Code](https://github.com/Jubayer-AI-Studio/amar-world-map) | `🟢 Live Production` |
-| **🔌 Electronics Importers BD**<br/>`B2B Hardware & Industrial RFQ` | Next.js 15 (SSR)<br/>TypeScript, Tailwind CSS<br/>Dynamic RFQ State Engine<br/>WhatsApp Cloud Dispatch | **B2B Industrial Catalog & Dynamic RFQ Engine:**<br/>• Categorized hardware matrix for industrial automation and robotics components.<br/>• Real-time Request For Quotation (RFQ) state pipeline with bulk tier discount calculations.<br/>• Sub-second SSR page loads with dynamic tax and shipping computation.<br/>• Generates formatted procurement purchase orders dispatched directly to B2B enterprise WhatsApp support. | • **Sub-Second SSR Speed**<br/>• Dynamic RFQ State Pipeline<br/>• 1-Click WhatsApp B2B Dispatch<br/>• Mobile-Optimized Catalog | [🚀 Live Demo](https://electronics-importers-bd.vercel.app)<br/><br/>[💻 Source Code](https://github.com/Jubayer-AI-Studio/electronics-importers-bd) | `🟢 Live Production` |
-| **🏎️ Ultra Portfolio (Bruno 3D)**<br/>`3D WebGL Driving World & HUD` | React 19, TypeScript<br/>Three.js, Cannon-es<br/>WebGL Custom Shaders<br/>Tailwind CSS | **Rigid-Body Vehicle Dynamics & 3D Interactive Kiosk:**<br/>• Immersive in-browser 3D car driving experience across an isometric cyberpunk district.<br/>• Cannon-es physics engine ticks at 60Hz to simulate vehicle torque, Ackermann steering, suspension, and mesh collisions.<br/>• Proximity raycasting triggers smooth camera orbit transitions and activates interactive telemetry kiosks.<br/>• Dual input architecture supporting desktop WASD/Arrow keys and mobile virtual analog joypads. | • **Rock-Solid 60 FPS WebGL**<br/>• 60Hz Physics Simulation Tick<br/>• Custom Low-Poly Shaders<br/>• Fullscreen Driving Viewport | [🚀 Live Demo](https://jubayer-portfolio-delta.vercel.app)<br/><br/>[💻 Source Code](https://github.com/Jubayer-AI-Studio/ultra-portfolio) | `🟢 Live Production` |
-| **🪐 Max Portfolio**<br/>`Interactive 3D Showroom & WebGL` | JavaScript, Three.js<br/>WebGL Canvas, PWA<br/>GSAP, Howler Audio Engine | **Procedural Lighting & Spatial Audio Showroom:**<br/>• 360-degree interactive showroom featuring procedural lighting and camera inertia damping.<br/>• Integrated terminal console allowing visitors to execute terminal commands and inspect live deployment endpoints.<br/>• Spatial audio micro-interactions powered by Howler.js.<br/>• Lightweight bundle design optimized for mobile GPUs and low-latency rendering. | • **Lightweight Three.js Bundle**<br/>• Mobile-First WebGL Tuning<br/>• PWA Installable Architecture<br/>• Zero Frame Stutter | [🚀 Live Demo](https://max-portfolio-eta.vercel.app)<br/><br/>[💻 Source Code](https://github.com/Jubayer-AI-Studio/max-portfolio) | `🟢 Live Production` |
-| **⚡ Affan Labib Writer Studio v2**<br/>`Zero-JS Baseline & Edge Architecture` | Astro v5, Supabase<br/>Tailwind CSS, MDX<br/>Edge Caching Pipeline | **Component Islands & Sub-50ms TTFB:**<br/>• Built on Astro v5 Island Architecture—delivers a 90% zero-runtime JavaScript baseline for lightning-fast reading.<br/>• Supabase cloud backend integration with Vercel edge caching.<br/>• Dynamic MDX article publication pipeline with optimized Open Graph metadata for social distribution. | • **100/100 Lighthouse Performance**<br/>• Sub-50ms Time-To-First-Byte<br/>• Zero Client-Side JS Overhead<br/>• SEO Optimized Architecture | [🚀 Live Demo](https://affan-labib-blog-v2.vercel.app)<br/><br/>[💻 Source Code](https://github.com/Jubayer-AI-Studio/affan-labib-blog-v2) | `🟢 Live Production` |
-| **🧭 Hasan Life Guide**<br/>`Mentorship & Roadmap Architecture` | Next.js, React<br/>TypeScript, Tailwind CSS<br/>Interactive Roadmap Engine | **Mentorship Pathway & Productivity Suite:**<br/>• Modern life management suite featuring structured personal and professional milestone visualization.<br/>• Offline-first voice memo recording with client-side audio processing.<br/>• Trilingual engine with bidirectional RTL support for Arabic, Urdu, Bengali, and English. | • **Fully Responsive Layout**<br/>• Fluid Micro-Interactions<br/>• Clean Semantic Architecture<br/>• Rapid Page Transitions | [🚀 Live Demo](https://hasan-nine-flame.vercel.app)<br/><br/>[💻 Source Code](https://github.com/Jubayer-AI-Studio/hasan) | `🟢 Live Production` |
-| **📖 Smritir Canvas**<br/>`Digital Literary & Typography Canvas` | HTML5, CSS3<br/>Modern Typography Engine<br/>Responsive Grid/Flexbox | **Distraction-Free Literary Reading Experience:**<br/>• Minimalist digital canvas designed for essays, memoirs, and book reviews.<br/>• High-contrast typography palette (`#081410`) engineered for optimal readability on mobile and desktop screens.<br/>• PWA standalone manifest enabling full offline reading. | • **Lightweight Architecture**<br/>• Zero Third-Party Bloat<br/>• Instant First Contentful Paint<br/>• Fluid Responsive Typography | [💻 Source Code](https://github.com/Jubayer-AI-Studio/smritir-canvas) | `⚡ Active System` |
-| **⚡ Jubayer AI Studio Hub**<br/>`Master Developer Telemetry Hub` | Markdown, GitHub Actions CI/CD<br/>SVG Geometry Engines<br/>Real-Time Chrono Telemetry | **Automated Voxel Metrics & Synchronized Telemetry:**<br/>• Centralized hub orchestrating the entire open-source presence of Jubayer AI Studio.<br/>• Automated GitHub Actions cron jobs maintain 24/7 contribution grid snake animations and isometric voxel telemetry.<br/>• Synchronized International Chrono-HUD reflecting global engineering operational readiness. | • **24/7 Automated CI/CD Sync**<br/>• Live Synchronized Chrono-HUD<br/>• Zero Broken Links or Dead Code<br/>• Google Developer Standards | [🚀 Master Hub](https://github.com/Jubayer-AI-Studio) | `🟢 Live Production` |
-
-<br/>
-
-<!-- ========================================================================= -->
-<!-- 4. COLLAPSIBLE ARCHITECTURAL DEEP-DIVES (ENGINEERING BLUEPRINTS)          -->
-<!-- ========================================================================= -->
-
-<details>
-  <summary><b>🔍 [CLICK TO EXPAND] ARCHITECTURAL BLUEPRINT 1: MESHK PROKASHON DATA PIPELINE</b></summary>
-  <br/>
-  
-  ```
-  [READER BROWSER / MOBILE PWA]
-             │
-             ├──► Next.js 15 App Router (Edge Static Regeneration)
-             │        │
-             │        ├──► Bookshelf.tsx & AllBooksSearchModal.tsx (Instant Search)
-             │        └──► RokomariReaderModal.tsx (Distraction-Free Sample Preview)
-             │
-             ├──► Google Gemini AI Engine (/api/ai + lib/aiBrain.ts)
-             │        │
-             │        └──► Intelligent Personalized Book Recommendation
-             │
-             ▼
-  [REACTIVE CART STATE & SHIPPING MATRIX]
-             │
-             ▼ (1-Click Order Protocol)
-  [AUTOMATED WHATSAPP BOT] ──► Formatted Order Packet Dispatched to Publishing Desk
-  ```
-  > [!TIP]
-  > **High-Performance Edge Caching:** Incremental Static Regeneration (ISR) ensures that hundreds of book covers and excerpts are edge-cached globally, reducing server overhead and guaranteeing sub-50ms page load speeds worldwide.
-</details>
-
-<br/>
-
-<details>
-  <summary><b>🔍 [CLICK TO EXPAND] ARCHITECTURAL BLUEPRINT 2: RIHLAH GADGET SHOP PWA DATA ENGINE</b></summary>
-  <br/>
-  
-  ```
-  [CLIENT / MOBILE PWA]
-             │
-             ▼ (Optimistic UI: CartContext.tsx)
-  [SLIDE-IN CART DRAWER]
-             │
-             ├──► LocalStorage Cart Persistence (Survives Refresh / Offline Mode)
-             ├──► Dynamic Delivery Matrix (Dhaka Metro: ৳70 / Outside: ৳130)
-             │
-             ▼ (Checkout Trigger)
-  [PRISMA ORM & POSTGRESQL DATA LAYER]
-             │
-             ├──► Inventory Verification & Stock Decrement
-             └──► Order Ledger Transaction
-             │
-             ▼ (1-Click Direct Dispatch)
-  [WHATSAPP AUTOMATION URL GENERATOR] ──► Pre-Formatted Order Delivered to +8801580376861
-  ```
-  > [!TIP]
-  > **Zero-Latency Optimistic UI:** Adding or removing gadgets instantly mutates local cart states without waiting for network round-trips, delivering a silky-smooth native mobile app user experience.
-</details>
-
-<br/>
-
-<details>
-  <summary><b>🔍 [CLICK TO EXPAND] ARCHITECTURAL BLUEPRINT 3: NOORHUB SAAS DATA PIPELINE</b></summary>
-  <br/>
-  
-  ```
-  [CLIENT / BROWSER / PWA]
-             │
-             ▼ (HTTPS / HTTP2)
-  [NEXT.JS 15 EDGE ROUTER & MIDDLEWARE]
-             │
-             ├──► Role Guard: Session JWT Verification (SuperAdmin / Admin / Teacher / Student)
-             │
-             ├──► Leaflet GIS Tile Renderer (District & Institutional GeoJSON Cluster)
-             │
-             ▼
-  [DRIZZLE ORM // TYPE-SAFE QUERY LAYER]
-             │
-             ▼ (Connection Pooling / SSL)
-  [NEON SERVERLESS POSTGRESQL ENGINE]
-             │
-             ├──► Automated Fee & Attendance Relational Ledger
-             └──► Dynamic High-DPI Student ID Generator (SVG Canvas + QR/Barcode)
-  ```
-  > [!TIP]
-  > **Scalability Strategy:** Utilizing Neon Serverless PostgreSQL connection pooling prevents database socket exhaustion during peak morning attendance and exam reporting windows.
-</details>
-
-<br/>
-
-<details>
-  <summary><b>🔍 [CLICK TO EXPAND] ARCHITECTURAL BLUEPRINT 4: ULTRA PORTFOLIO (BRUNO 3D WEBGL ENGINE)</b></summary>
-  <br/>
-  
-  ```
-  [KEYBOARD / TOUCH INPUT] ──► Input Controller (WASD / Arrow Keys / Virtual Joypad)
-                                       │
-                                       ▼
-  [CANNON-ES RIGID BODY ENGINE] ──► Physics Tick @ 60Hz (Torque, Friction, Suspension, Collisions)
-                                       │
-                                       ▼ (Rigid Body Translation & Quaternions)
-  [THREE.JS RENDER LOOP] ─────────► Updates 3D Mesh Matrix & Camera Orbit Follower
-                                       │
-                                       ▼ (Raycast Intersection Check)
-  [PROXIMITY TRIGGER KIOSK] ──────► Activates Project HUD Telemetry & Popups in 60 FPS
-  ```
-  > [!TIP]
-  > **Decoupled Physics Loop:** Separating the Cannon-es physics loop from the WebGL render cycle maintains a consistent 60 FPS across budget laptops and high-end gaming rigs alike.
-</details>
-
-<br/>
-
-<details>
-  <summary><b>🔍 [CLICK TO EXPAND] ARCHITECTURAL BLUEPRINT 5: AMAR WORLD MAP GEO-RASTERIZER</b></summary>
-  <br/>
-  
-  ```
-  [RAW GEOJSON GEOMETRIES] ───────► Memoized Vector Path Parser (React 19 Hooks)
-                                           │
-                                           ▼
-  [SVG CANVAS LAYER] ─────────────► Responsive 64-District High-DPI Bangladesh Mesh
-                                           │
-                                           ▼ (User Tap / Click District Event)
-  [REACTIVITY & PERSISTENCE] ─────► LocalStorage History + Live Completion Rate Calculation
-                                           │
-                                           ▼
-  [ZERO-TAP SOCIAL ENGINE] ───────► Client-Side Canvas 2D Renders Social Badge with Hind Siliguri Font
-  ```
-  > [!TIP]
-  > **Zero Server Overhead:** Entire district path calculation and badge export operates purely client-side, enabling full functionality even in complete offline mode.
-</details>
+| Platform | Technology Stack | Core Capabilities | Direct Access |
+| :--- | :--- | :--- | :---: |
+| **📚 Meshk Prokashon** | Next.js 15, React 19, Tailwind CSS, Gemini AI, PWA | Islamic Publishing House with edge-cached catalog, in-browser reader & automated WhatsApp order dispatch. | [🚀 Live Site](https://meshk-prokashon.pages.dev) • [💻 Code](https://github.com/Jubayer-AI-Studio/mesk) |
+| **📱 Rihlah Gadget Shop** | Next.js 15, React 19, TypeScript, Prisma ORM, PostgreSQL, PWA | Authentic gadget e-commerce platform with zero-latency optimistic cart and nationwide COD logistics. | [🚀 Live Site](https://rihlah-gadget-shop.pages.dev) • [💻 Code](https://github.com/Jubayer-AI-Studio/rihlah-gadget-shop) |
+| **🏰 NoorHub SaaS** | Next.js 15 App Router, React 19, Drizzle ORM, Neon PostgreSQL, Leaflet GIS | Universal Islamic education management cloud platform with 29 routes, GIS district mapping & high-DPI ID generation. | [🚀 Live Site](https://noorhub.vercel.app) • [💻 Code](https://github.com/Jubayer-AI-Studio/NoorHub-Madrasa-Management-SaaS) |
+| **🗺️ Amar World Map** | React 19, TypeScript, Vite, Tailwind CSS, SVG Path Engine | High-DPI 64-district geo-spatial exploration tracker with client-side persistence and zero-tap social share card export. | [🚀 Live Site](https://amar-world-map.vercel.app) • [💻 Code](https://github.com/Jubayer-AI-Studio/amar-world-map) |
+| **🔌 Electronics Importers BD** | Next.js 15 SSR, TypeScript, Dynamic RFQ Engine, WhatsApp Cloud | Enterprise B2B hardware catalog and quotation pipeline with tier-based wholesale pricing and procurement memos. | [🚀 Live Site](https://electronics-importers-bd.vercel.app) • [💻 Code](https://github.com/Jubayer-AI-Studio/electronics-importers-bd) |
+| **🏎️ Ultra Portfolio (Bruno 3D)** | React 19, Three.js, Cannon-es Physics Engine, WebGL | Interactive 3D WebGL vehicle simulation running at rock-solid 60 FPS across an isometric cyberpunk developer district. | [🚀 Live Site](https://jubayer-portfolio-delta.vercel.app) • [💻 Code](https://github.com/Jubayer-AI-Studio/ultra-portfolio) |
+| **🪐 Max Portfolio** | JavaScript, Three.js, WebGL Canvas, GSAP, Howler Audio | 360-degree interactive 3D showroom featuring procedural lighting, spatial audio, and an embedded terminal console. | [🚀 Live Site](https://max-portfolio-2pv.pages.dev) • [💻 Code](https://github.com/Jubayer-AI-Studio/max-portfolio) |
+| **⚡ Affan Labib Writer Studio** | Astro v5 (Island Architecture), Supabase, Tailwind CSS, MDX | High-performance editorial platform delivering a 90% zero-runtime JavaScript baseline with sub-50ms TTFB. | [🚀 Live Site](https://affan-labib.pages.dev) • [💻 Code](https://github.com/Jubayer-AI-Studio/affan-labib-blog-v2) |
 
 <br/>
 
@@ -237,7 +100,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 5. 3D ISOMETRIC VIRTUAL REALM HERO BANNER                                 -->
+<!-- 4. 3D ISOMETRIC VIRTUAL REALM HERO BANNER                                 -->
 <!-- ========================================================================= -->
 <div align="center">
   <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
@@ -268,7 +131,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 6. CHARACTER RPG CONSOLE & ATTRIBUTES                                     -->
+<!-- 5. CHARACTER RPG CONSOLE & ATTRIBUTES                                     -->
 <!-- ========================================================================= -->
 <div align="center">
   <img src="./assets/character_rpg_card.svg" width="100%" alt="Character RPG Console" style="border-radius: 16px;" />
@@ -300,7 +163,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 7. TECHNICAL ARSENAL // LEGENDARY GEAR                                    -->
+<!-- 6. TECHNICAL ARSENAL // LEGENDARY GEAR                                    -->
 <!-- ========================================================================= -->
 <div align="center">
   <img src="./assets/technical_arsenal_card.svg" width="100%" alt="Technical Arsenal" style="border-radius: 16px;" />
@@ -315,7 +178,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 8. FLAGSHIP PRODUCTION QUESTS SHOWCASE                                    -->
+<!-- 7. FLAGSHIP PRODUCTION QUESTS SHOWCASE                                    -->
 <!-- ========================================================================= -->
 <div align="center">
   <a href="https://github.com/Jubayer-AI-Studio">
@@ -349,7 +212,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 9. 3D ISOMETRIC TELEMETRY & VOXEL MATRIX                                   -->
+<!-- 8. 3D ISOMETRIC TELEMETRY & VOXEL MATRIX                                   -->
 <!-- ========================================================================= -->
 <div align="center">
   <p><i>Real-Time 3D Isometric Voxel Contributions:</i></p>
@@ -375,7 +238,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 10. TELEMETRY ANALYTICS                                                   -->
+<!-- 9. TELEMETRY ANALYTICS                                                    -->
 <!-- ========================================================================= -->
 <div align="center">
   <a href="https://github.com/Jubayer-AI-Studio">
@@ -403,7 +266,7 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 11. CO-OP MULTIPLAYER DISPATCH                                            -->
+<!-- 10. CO-OP MULTIPLAYER DISPATCH                                            -->
 <!-- ========================================================================= -->
 <div align="center">
 
@@ -416,10 +279,10 @@
 <a href="https://jubayer-portfolio-delta.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Official_Portfolio-jubayer--portfolio--delta.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Official Live Portfolio" />
 </a>
-<a href="https://mesk-nine.vercel.app" target="_blank">
+<a href="https://meshk-prokashon.pages.dev" target="_blank">
   <img src="https://img.shields.io/badge/Meshk_Prokashon-Live_Platform-B6743F?style=for-the-badge&logo=book&logoColor=white" alt="Meshk Prokashon" />
 </a>
-<a href="https://github.com/Jubayer-AI-Studio/rihlah-gadget-shop" target="_blank">
+<a href="https://rihlah-gadget-shop.pages.dev" target="_blank">
   <img src="https://img.shields.io/badge/Rihlah_Gadget-PWA_Engine-10B981?style=for-the-badge&logo=shopify&logoColor=white" alt="Rihlah Gadget Shop" />
 </a>
 <a href="https://github.com/Jubayer-AI-Studio">
